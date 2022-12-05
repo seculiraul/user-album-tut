@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Scott Batz",
+      "id": 2
+    },
+    {
+      "name": "Bryan Strosin",
+      "id": 3
+    },
+    {
+      "name": "Ms. Curtis Ritchie",
+      "id": 4
+    }
+  ],
+  "albums": [
+    {
+      "id": 10,
+      "title": "my album",
+      "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Rustic Steel Keyboard",
+      "id": 11
+    }
+  ],
+  "photos": []
+}
