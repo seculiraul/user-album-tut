@@ -27,7 +27,43 @@
       "userId": 1,
       "title": "Rustic Steel Keyboard",
       "id": 11
+    },
+    {
+      "userId": 2,
+      "title": "Handcrafted Rubber Computer",
+      "id": 13
+    },
+    {
+      "userId": 3,
+      "title": "Generic Rubber Keyboard",
+      "id": 14
+    },
+    {
+      "userId": 3,
+      "title": "Refined Frozen Chair",
+      "id": 15
+    },
+    {
+      "userId": 2,
+      "title": "Tasty Rubber Computer",
+      "id": 16
+    },
+    {
+      "userId": 2,
+      "title": "Gorgeous Steel Salad",
+      "id": 18
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=41141",
+      "id": 1
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=62211",
+      "id": 3
+    }
+  ]
 }
